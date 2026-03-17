@@ -1,6 +1,6 @@
 # torchvision · Transform Explorer
 
-> **Live demo:** [your-username.github.io/torchvision-explorer](https://your-username.github.io/torchvision-explorer)
+> **Live demo:** [https://sinadunk23.github.io/torchvision_explorer/](https://sinadunk23.github.io/torchvision_explorer/)
 
 An interactive visual reference for `torchvision.transforms` — see exactly what each transform does and how parameter changes affect your images, before writing a single line of training code.
 
